@@ -8,6 +8,12 @@
 
 [![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
 
+### Deploy to Heroku
+
+Click Below Button to Deploy to Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrProfessor999/leech-pro)
+
 
 
 # Benefits :-
